@@ -21,8 +21,8 @@ export default {
   data () {
     return {
       user: {
-        email: 'admin@vue.com',
-        password: '@Password1'
+        email: '',
+        password: ''
       }
     }
   },
